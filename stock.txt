@@ -1,0 +1,4 @@
+Cropped Hoodie,Adidas,$14.5,76
+Jordan Flight,Nike,$18,65
+Trucker Jacket,Levi's,$23,50
+Mt. T-Shirt,Vans,$25,60
